@@ -1,62 +1,62 @@
 {
     "Accepts marketing": {
-        "es": ""
+        "es": "Acepta marketing"
     },
     "Address": {
-        "es": ""
+        "es": "Dirección"
     },
     "Birthdate": {
-        "es": ""
+        "es": "Fecha de nacimineto"
     },
     "City": {
-        "es": ""
+        "es": "Ciudad"
     },
     "Comments": {
-        "es": ""
+        "es": "Comentarios"
     },
     "Country": {
-        "es": ""
+        "es": "País"
     },
     "Email": {
-        "es": ""
+        "es": "Email"
     },
     "Full name": {
-        "es": ""
+        "es": "Nombre completo"
     },
     "ID card": {
-        "es": ""
+        "es": "Tarjeta de identificación"
     },
     "Invoice to": {
-        "es": ""
+        "es": "Factuar a"
     },
     "Last name": {
-        "es": ""
+        "es": "Apellido"
     },
     "Mobile phone": {
-        "es": ""
+        "es": "Teléfono móvil"
     },
     "Name": {
-        "es": ""
+        "es": "Nombre"
     },
     "Nickname": {
-        "es": ""
+        "es": "Apodo"
     },
     "Phone 1": {
-        "es": ""
+        "es": "Teléfono 1"
     },
     "Phone 2": {
-        "es": ""
+        "es": "Teléfono 2"
     },
     "Referral": {
-        "es": ""
+        "es": "Referido por"
     },
     "Second Last name": {
-        "es": ""
+        "es": "Segundo Apellido"
     },
     "Town": {
-        "es": ""
+        "es": "Ciudad"
     },
     "Zip code": {
-        "es": ""
+        "es": "Código Postal"
     }
 }

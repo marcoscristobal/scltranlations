@@ -1,111 +1,111 @@
 {
     "%d hours ago": {
-        "es": ""
+        "es": "hace %d horas"
     },
     "%d minutes ago": {
-        "es": ""
+        "es": "hace %d minutos"
     },
     "%d rows": {
-        "es": ""
+        "es": "%d filas"
     },
     "%d seconds ago": {
-        "es": ""
+        "es": "hace %d segundos"
     },
     "%d to %d of %d rows": {
-        "es": ""
+        "es": "%d a %d de %d filas"
     },
     "Accept": {
-        "es": ""
+        "es": "Aceptar"
     },
     "Aceptar": {
-        "es": ""
+        "es": "Aceptar"
     },
     "Add file": {
-        "es": ""
+        "es": "Añadir archivo"
     },
     "April": {
-        "es": ""
+        "es": "Abril"
     },
     "August": {
-        "es": ""
+        "es": "Agosto"
     },
     "Background color": {
-        "es": ""
+        "es": "Color de fondo"
     },
     "Bold": {
-        "es": ""
+        "es": "Negrita"
     },
     "Cancel": {
-        "es": ""
+        "es": "Cancelar"
     },
     "Center align": {
-        "es": ""
+        "es": "Alineamiento centrado"
     },
     "Change": {
-        "es": ""
+        "es": "Cambiar"
     },
     "Choose file": {
-        "es": ""
+        "es": "Selecionar un archivo"
     },
     "Clear formatting": {
-        "es": ""
+        "es": "Limpiar el formato"
     },
     "Click to select": {
-        "es": ""
+        "es": "Seleccione haciendo click"
     },
     "Color": {
-        "es": ""
+        "es": "Color"
     },
     "Created: %v": {
-        "es": ""
+        "es": "Creadas: %v"
     },
     "December": {
-        "es": ""
+        "es": "Diciembre"
     },
     "Discard": {
-        "es": ""
+        "es": "Descartar"
     },
     "Edit": {
-        "es": ""
+        "es": "Editar"
     },
     "End": {
         "es": "Fin"
     },
     "Exit": {
-        "es": ""
+        "es": "Salir"
     },
     "February": {
-        "es": ""
+        "es": "Febrero"
     },
     "Fri": {
-        "es": ""
+        "es": "Vie"
     },
     "Friday": {
-        "es": ""
+        "es": "Viernes"
     },
     "Heading": {
-        "es": ""
+        "es": "Cabecera"
     },
     "Image": {
-        "es": ""
+        "es": "Imagen"
     },
     "Indent decrease": {
-        "es": ""
+        "es": "Reducir la sangría"
     },
     "Invalid value": {
-        "es": ""
+        "es": "Valor incorrecto"
     },
     "Italic": {
-        "es": ""
+        "es": "Itálica"
     },
     "January": {
-        "es": ""
+        "es": "Enero"
     },
     "July": {
-        "es": ""
+        "es": "Julio"
     },
     "June": {
-        "es": ""
+        "es": "Junio"
     },
     "Label": {
         "es": ""
@@ -114,46 +114,46 @@
         "es": "El mes pasado"
     },
     "Last year": {
-        "es": ""
+        "es": "El año pasado"
     },
     "Leave and ignore changes? ": {
-        "es": ""
+        "es": "¿Salir e ignorar cambios?"
     },
     "Left align": {
-        "es": ""
+        "es": "Alineamiento a la izquierda"
     },
     "Link": {
-        "es": ""
+        "es": "Link"
     },
     "Manage your account": {
-        "es": ""
+        "es": "Gestionar tu cuenta"
     },
     "March": {
-        "es": ""
+        "es": "Marzo"
     },
     "May": {
-        "es": ""
+        "es": "Mayo"
     },
     "Mon": {
-        "es": ""
+        "es": "Lun"
     },
     "Monday": {
-        "es": ""
+        "es": "Lunes"
     },
     "November": {
-        "es": ""
+        "es": "Noviembre"
     },
     "October": {
-        "es": ""
+        "es": "Octubre"
     },
     "Ordered list": {
-        "es": ""
+        "es": "Listado ordenado"
     },
     "Please review the errors": {
-        "es": ""
+        "es": "Por favor revise los errores"
     },
     "Remove": {
-        "es": ""
+        "es": "Borrar"
     },
     "Required": {
         "es": "Campo obligatorio"
@@ -162,55 +162,55 @@
         "es": ""
     },
     "Right increase": {
-        "es": ""
+        "es": "Aumentar a l a derecha"
     },
     "Sat": {
-        "es": ""
+        "es": "Sáb"
     },
     "Saturday": {
-        "es": ""
+        "es": "Sábado"
     },
     "Save": {
-        "es": ""
+        "es": "Guardar"
     },
     "Search": {
-        "es": ""
+        "es": "Buscar"
     },
     "Select all pages": {
-        "es": ""
+        "es": "Seleccionar todas las páginas"
     },
     "Selected %v": {
-        "es": ""
+        "es": "Seleccionar %v"
     },
     "September": {
-        "es": ""
+        "es": Septiembre""
     },
     "Start": {
         "es": "Inicio"
     },
     "Sun": {
-        "es": ""
+        "es": "Dom"
     },
     "Sunday": {
-        "es": ""
+        "es": "Domingo"
     },
     "The value must be a number with no decimals.": {
-        "es": ""
+        "es": "El valor tiene que ser un número sin decimales"
     },
     "The value must be a number.": {
-        "es": ""
+        "es": "El valor tiene que ser un número"
     },
     "This month": {
-        "es": ""
+        "es": "Este mes"
     },
     "This year": {
-        "es": ""
+        "es": "Este año"
     },
     "Thu": {
-        "es": ""
+        "es": "Jue"
     },
     "Thursday": {
-        "es": ""
+        "es": "Jueves"
     },
     "Today": {
         "es": "Hoy"
@@ -222,117 +222,117 @@
         "es": "Martes"
     },
     "URL": {
-        "es": ""
+        "es": "URL"
     },
     "Underline": {
-        "es": ""
+        "es": "subrayado"
     },
     "Unordered list": {
-        "es": ""
+        "es": "Listado desordenado"
     },
     "Unsaved changes": {
-        "es": ""
+        "es": "Cambios no guardados"
     },
     "Unselect all": {
-        "es": ""
+        "es": "Borrar la selección"
     },
     "Unselect page": {
-        "es": ""
+        "es": "deseleccionar la página"
     },
     "Value is too long. Max is %d, got %d": {
-        "es": ""
+        "es": "EL valor es demasiado largo. El máximo es %d, hay %d"
     },
     "View code": {
-        "es": ""
+        "es": "Ver código"
     },
     "Wed": {
-        "es": ""
+        "es": "Mie"
     },
     "Wednesday": {
-        "es": ""
+        "es": "Miércoles"
     },
     "Yesterday": {
         "es": "Ayer"
     },
     "a moment ago": {
-        "es": ""
+        "es": "hace un momento"
     },
     "advanced": {
-        "es": ""
+        "es": "avanzado"
     },
     "an hour ago": {
-        "es": ""
+        "es": "hace una hora"
     },
     "and": {
-        "es": ""
+        "es": "y"
     },
     "basic": {
-        "es": ""
+        "es": "básico"
     },
     "contains": {
-        "es": ""
+        "es": "contiene"
     },
     "different than": {
-        "es": ""
+        "es": "diferente a"
     },
     "ends with": {
-        "es": ""
+        "es": "termina en"
     },
     "equal to": {
-        "es": ""
+        "es": "igual a"
     },
     "greater or equal than": {
-        "es": ""
+        "es": "mayor o igual a"
     },
     "greater than": {
-        "es": ""
+        "es": "mayor que"
     },
     "has a value": {
-        "es": ""
+        "es": "tiene un valor"
     },
     "has no value": {
-        "es": ""
+        "es": "no tiene valor"
     },
     "is empty": {
-        "es": ""
+        "es": "está vacío"
     },
     "is false": {
-        "es": ""
+        "es": "es falso"
     },
     "is true": {
-        "es": ""
+        "es": "es correcto"
     },
     "last updated: %v": {
-        "es": ""
+        "es": "última actualización: %v"
     },
     "lesser or equal than": {
-        "es": ""
+        "es": "menor o igual a"
     },
     "lesser than": {
         "es": ""
     },
     "no": {
-        "es": ""
+        "es": "no"
     },
     "not contains": {
-        "es": ""
+        "es": "no contiene"
     },
     "one minute ago": {
-        "es": ""
+        "es": "hace un minuto"
     },
     "or": {
-        "es": ""
+        "es": "o"
     },
     "or drop a file to upload": {
-        "es": ""
+        "es": "o arrastre un archivo para cargarlo"
     },
     "starts with": {
-        "es": ""
+        "es": "empieza por"
     },
     "the result is empty": {
-        "es": ""
+        "es": "el resultado está vacio"
     },
     "yes": {
-        "es": ""
+        "es": "si"
     }
 }

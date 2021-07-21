@@ -1,11 +1,11 @@
 {
     "[priority]Default": {
-        "es": ""
+        "es": "Por defecto"
     },
     "[priority]High": {
-        "es": ""
+        "es": "Alta"
     },
     "[priority]Low": {
-        "es": ""
+        "es": "Baja"
     }
 }

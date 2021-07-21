@@ -12,7 +12,7 @@
         "es": "Usuario o contraseña incorrectos"
     },
     "Password is required": {
-        "es": ""
+        "es": "Se requiere la contraseña"
     },
     "Password is too short. It must be at least 8 characters, got %d": {
         "es": "La contraseña es muy corta. Debe tener al menos 8 caracteres, tiene %d"
@@ -39,15 +39,15 @@
         "es": "caducado"
     },
     "invalid account": {
-        "es": ""
+        "es": "cuenta no válida"
     },
     "invalid code": {
-        "es": "código inválido"
+        "es": "código no válido"
     },
     "the name must be alphanumeric": {
-        "es": ""
+        "es": "el nombre tiene que ser alfanumérico"
     },
     "the name must have between 3 and 30 characters": {
-        "es": ""
+        "es": "el nombre tiene que tener entre 3 y 30 caractéres"
     }
 }

@@ -1,24 +1,24 @@
 {
     "Add tags": {
-        "es": ""
+        "es": "Agregar Etiquetas"
     },
     "Add tags to %d elements": {
-        "es": ""
+        "es": "Añadir etiquetas a %d elementos "
     },
     "Create": {
-        "es": ""
+        "es": "Crear"
     },
     "Create %s": {
-        "es": ""
+        "es": "Crear %s"
     },
     "Customize list": {
-        "es": ""
+        "es": "Personalizar listado"
     },
     "Default list": {
-        "es": ""
+        "es": "Listado por defecto"
     },
     "Delete": {
-        "es": ""
+        "es": "Eliminar"
     },
     "Delete %d elements?": {
         "en": [
@@ -31,51 +31,51 @@
         ]
     },
     "Delete list": {
-        "es": ""
+        "es": "Eliminar listado"
     },
     "Element saved": {
-        "es": ""
+        "es": "Elemento guardado"
     },
     "Export": {
-        "es": ""
+        "es": "Exportar"
     },
     "Import": {
-        "es": ""
+        "es": "Importar"
     },
     "Import %s": {
-        "es": ""
+        "es": "Importar %s"
     },
     "Imported %d rows, updated %d": {
-        "es": ""
+        "es": "Importadas %d filas, %d actualizadas"
     },
     "List settings": {
-        "es": ""
+        "es": "Configurar listado"
     },
     "Remove tags": {
-        "es": ""
+        "es": "Eliminar etiquetas"
     },
     "Remove tags to %d elements": {
-        "es": ""
+        "es": "Eliminar etiquetas de %d elementos"
     },
     "Save": {
-        "es": ""
+        "es": "Guardar"
     },
     "Save list": {
-        "es": ""
+        "es": "Guardar listado"
     },
     "The element doesn't exist": {
-        "es": ""
+        "es": "El elemento no existe"
     },
     "The name can only contain alphanumeric characters": {
-        "es": ""
+        "es": "El nombre solo puede tener caractéres alfanuméricos"
     },
     "The name does not match": {
-        "es": ""
+        "es": "El nombre no coincide"
     },
     "This action can not be reversed": {
-        "es": ""
+        "es": "Esta acción no se puede deshacer"
     },
     "Title": {
-        "es": ""
+        "es": "Título"
     }
 }
