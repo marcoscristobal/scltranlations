@@ -1,0 +1,53 @@
+{
+    "Click here to confirm your email:\n\n<%= model.url %>\n\nThank you!": {
+        "es": "Haga click en el enlace para confirmar su email:\n\n<%= model.url %>\n\nGracias!"
+    },
+    "Click here to restore your password:\n\n<%= model.url %>\n\nThank you!": {
+        "es": "Haga click en el enlace para confirmar su contraseña:\n\n<%= model.url %>\n\nGracias!"
+    },
+    "Confirm account": {
+        "es": "Confirmar cuenta"
+    },
+    "Invalid user or password": {
+        "es": "Usuario o contraseña incorrectos"
+    },
+    "Password is required": {
+        "es": ""
+    },
+    "Password is too short. It must be at least 8 characters, got %d": {
+        "es": "La contraseña es muy corta. Debe tener al menos 8 caracteres, tiene %d"
+    },
+    "Reset password": {
+        "es": "Restaurar contraseña"
+    },
+    "The account already exists": {
+        "es": "La cuenta ya existe"
+    },
+    "The email is invalid": {
+        "es": "El email es inválido"
+    },
+    "Too many attempts": {
+        "es": "Demasiados intentos"
+    },
+    "Too many fails. Reset your password": {
+        "es": "Demasiados intentos fallidos. Restaure la contraseña"
+    },
+    "already validated": {
+        "es": "ya validado"
+    },
+    "expired": {
+        "es": "caducado"
+    },
+    "invalid account": {
+        "es": ""
+    },
+    "invalid code": {
+        "es": "código inválido"
+    },
+    "the name must be alphanumeric": {
+        "es": ""
+    },
+    "the name must have between 3 and 30 characters": {
+        "es": ""
+    }
+}

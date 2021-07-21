@@ -1,0 +1,81 @@
+{
+    "Add tags": {
+        "es": ""
+    },
+    "Add tags to %d elements": {
+        "es": ""
+    },
+    "Create": {
+        "es": ""
+    },
+    "Create %s": {
+        "es": ""
+    },
+    "Customize list": {
+        "es": ""
+    },
+    "Default list": {
+        "es": ""
+    },
+    "Delete": {
+        "es": ""
+    },
+    "Delete %d elements?": {
+        "en": [
+            "Delete %d element?",
+            "Delete %d elements?"
+        ],
+        "es": [
+            "¿Eliminar %d elemento?",
+            "¿Eliminar %d elementos?"
+        ]
+    },
+    "Delete list": {
+        "es": ""
+    },
+    "Element saved": {
+        "es": ""
+    },
+    "Export": {
+        "es": ""
+    },
+    "Import": {
+        "es": ""
+    },
+    "Import %s": {
+        "es": ""
+    },
+    "Imported %d rows, updated %d": {
+        "es": ""
+    },
+    "List settings": {
+        "es": ""
+    },
+    "Remove tags": {
+        "es": ""
+    },
+    "Remove tags to %d elements": {
+        "es": ""
+    },
+    "Save": {
+        "es": ""
+    },
+    "Save list": {
+        "es": ""
+    },
+    "The element doesn't exist": {
+        "es": ""
+    },
+    "The name can only contain alphanumeric characters": {
+        "es": ""
+    },
+    "The name does not match": {
+        "es": ""
+    },
+    "This action can not be reversed": {
+        "es": ""
+    },
+    "Title": {
+        "es": ""
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "%d hours ago": {
+        "es": ""
+    },
+    "%d minutes ago": {
+        "es": ""
+    },
+    "%d rows": {
+        "es": ""
+    },
+    "%d seconds ago": {
+        "es": ""
+    },
+    "%d to %d of %d rows": {
+        "es": ""
+    },
+    "Accept": {
+        "es": ""
+    },
+    "Aceptar": {
+        "es": ""
+    },
+    "Add file": {
+        "es": ""
+    },
+    "April": {
+        "es": ""
+    },
+    "August": {
+        "es": ""
+    },
+    "Background color": {
+        "es": ""
+    },
+    "Bold": {
+        "es": ""
+    },
+    "Cancel": {
+        "es": ""
+    },
+    "Center align": {
+        "es": ""
+    },
+    "Change": {
+        "es": ""
+    },
+    "Choose file": {
+        "es": ""
+    },
+    "Clear formatting": {
+        "es": ""
+    },
+    "Click to select": {
+        "es": ""
+    },
+    "Color": {
+        "es": ""
+    },
+    "Created: %v": {
+        "es": ""
+    },
+    "December": {
+        "es": ""
+    },
+    "Discard": {
+        "es": ""
+    },
+    "Edit": {
+        "es": ""
+    },
+    "End": {
+        "es": "Fin"
+    },
+    "Exit": {
+        "es": ""
+    },
+    "February": {
+        "es": ""
+    },
+    "Fri": {
+        "es": ""
+    },
+    "Friday": {
+        "es": ""
+    },
+    "Heading": {
+        "es": ""
+    },
+    "Image": {
+        "es": ""
+    },
+    "Indent decrease": {
+        "es": ""
+    },
+    "Invalid value": {
+        "es": ""
+    },
+    "Italic": {
+        "es": ""
+    },
+    "January": {
+        "es": ""
+    },
+    "July": {
+        "es": ""
+    },
+    "June": {
+        "es": ""
+    },
+    "Label": {
+        "es": ""
+    },
+    "Last month": {
+        "es": "El mes pasado"
+    },
+    "Last year": {
+        "es": ""
+    },
+    "Leave and ignore changes? ": {
+        "es": ""
+    },
+    "Left align": {
+        "es": ""
+    },
+    "Link": {
+        "es": ""
+    },
+    "Manage your account": {
+        "es": ""
+    },
+    "March": {
+        "es": ""
+    },
+    "May": {
+        "es": ""
+    },
+    "Mon": {
+        "es": ""
+    },
+    "Monday": {
+        "es": ""
+    },
+    "November": {
+        "es": ""
+    },
+    "October": {
+        "es": ""
+    },
+    "Ordered list": {
+        "es": ""
+    },
+    "Please review the errors": {
+        "es": ""
+    },
+    "Remove": {
+        "es": ""
+    },
+    "Required": {
+        "es": "Campo obligatorio"
+    },
+    "Right align": {
+        "es": ""
+    },
+    "Right increase": {
+        "es": ""
+    },
+    "Sat": {
+        "es": ""
+    },
+    "Saturday": {
+        "es": ""
+    },
+    "Save": {
+        "es": ""
+    },
+    "Search": {
+        "es": ""
+    },
+    "Select all pages": {
+        "es": ""
+    },
+    "Selected %v": {
+        "es": ""
+    },
+    "September": {
+        "es": ""
+    },
+    "Start": {
+        "es": "Inicio"
+    },
+    "Sun": {
+        "es": ""
+    },
+    "Sunday": {
+        "es": ""
+    },
+    "The value must be a number with no decimals.": {
+        "es": ""
+    },
+    "The value must be a number.": {
+        "es": ""
+    },
+    "This month": {
+        "es": ""
+    },
+    "This year": {
+        "es": ""
+    },
+    "Thu": {
+        "es": ""
+    },
+    "Thursday": {
+        "es": ""
+    },
+    "Today": {
+        "es": "Hoy"
+    },
+    "Tue": {
+        "es": "Mar"
+    },
+    "Tuesday": {
+        "es": "Martes"
+    },
+    "URL": {
+        "es": ""
+    },
+    "Underline": {
+        "es": ""
+    },
+    "Unordered list": {
+        "es": ""
+    },
+    "Unsaved changes": {
+        "es": ""
+    },
+    "Unselect all": {
+        "es": ""
+    },
+    "Unselect page": {
+        "es": ""
+    },
+    "Value is too long. Max is %d, got %d": {
+        "es": ""
+    },
+    "View code": {
+        "es": ""
+    },
+    "Wed": {
+        "es": ""
+    },
+    "Wednesday": {
+        "es": ""
+    },
+    "Yesterday": {
+        "es": "Ayer"
+    },
+    "a moment ago": {
+        "es": ""
+    },
+    "advanced": {
+        "es": ""
+    },
+    "an hour ago": {
+        "es": ""
+    },
+    "and": {
+        "es": ""
+    },
+    "basic": {
+        "es": ""
+    },
+    "contains": {
+        "es": ""
+    },
+    "different than": {
+        "es": ""
+    },
+    "ends with": {
+        "es": ""
+    },
+    "equal to": {
+        "es": ""
+    },
+    "greater or equal than": {
+        "es": ""
+    },
+    "greater than": {
+        "es": ""
+    },
+    "has a value": {
+        "es": ""
+    },
+    "has no value": {
+        "es": ""
+    },
+    "is empty": {
+        "es": ""
+    },
+    "is false": {
+        "es": ""
+    },
+    "is true": {
+        "es": ""
+    },
+    "last updated: %v": {
+        "es": ""
+    },
+    "lesser or equal than": {
+        "es": ""
+    },
+    "lesser than": {
+        "es": ""
+    },
+    "no": {
+        "es": ""
+    },
+    "not contains": {
+        "es": ""
+    },
+    "one minute ago": {
+        "es": ""
+    },
+    "or": {
+        "es": ""
+    },
+    "or drop a file to upload": {
+        "es": ""
+    },
+    "starts with": {
+        "es": ""
+    },
+    "the result is empty": {
+        "es": ""
+    },
+    "yes": {
+        "es": ""
+    }
+}

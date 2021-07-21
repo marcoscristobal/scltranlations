@@ -1,0 +1,62 @@
+{
+    "We are sorry, something went wrong": {
+        "es": "Lo sentimos, algo salió mal"
+    },
+    "Monday": {
+        "es": "lunes"
+    },
+    "Tuesday": {
+        "es": "martes"
+    },
+    "Thursday": {
+        "es": "miércoles"
+    },
+    "Wednesday": {
+        "es": "jueves"
+    },
+    "Friday": {
+        "es": "viernes"
+    },
+    "Saturday": {
+        "es": "sábado"
+    },
+    "Sunday": {
+        "es": "domingo"
+    },
+    "January": {
+        "es": "enero"
+    },
+    "February": {
+        "es": "febrero"
+    },
+    "March": {
+        "es": "marzo"
+    },
+    "April": {
+        "es": "abril"
+    },
+    "May": {
+        "es": "mayo"
+    },
+    "June": {
+        "es": "junio"
+    },
+    "July": {
+        "es": "julio"
+    },
+    "August": {
+        "es": "agosto"
+    },
+    "September": {
+        "es": "septiembre"
+    },
+    "October": {
+        "es": "octubre"
+    },
+    "November": {
+        "es": "noviembre"
+    },
+    "December": {
+        "es": "diciembre"
+    }
+}

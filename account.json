@@ -1,0 +1,95 @@
+{
+    "Already have an account?": {
+        "es": "¿Ya tienes una cuenta?"
+    },
+    "Before continuing, we need to verify your email address. Please check your inbox for a confirmation link.": {
+        "es": "Antes de sequir necesitamos verificar tu cuenta de correo. Por favor revisa el link de confirmación enviado"
+    },
+    "Continue": {
+        "es": "Continuar"
+    },
+    "Create your URL": {
+        "es": "Crea tu URL"
+    },
+    "Don't have an account?": {
+        "es": "¿No tienes cuenta?"
+    },
+    "Email": {
+        "es": "Email"
+    },
+    "Enter a new password (at least 8 characters)": {
+        "es": "Introduce una nueva contraseña (al menos 8 caracteres)"
+    },
+    "Forgot your password?": {
+        "es": "¿Olvidaste la contraseña?"
+    },
+    "Get Started": {
+        "es": "Iniciar"
+    },
+    "I agree to the": {
+        "es": "Acepto las"
+    },
+    "I would like to receive emails about new features and news.": {
+        "es": "Deseo recibir emails sobre nuevas funcionalidades y novedades"
+    },
+    "Language": {
+        "es": "Idioma"
+    },
+    "Login": {
+        "es": "Acceder"
+    },
+    "Name": {
+        "es": "Nombre"
+    },
+    "Password": {
+        "es": "Contraseña"
+    },
+    "Password (at least 8 characters)": {
+        "es": "Contraseña (al menos 8 caracteres)"
+    },
+    "Password sent": {
+        "es": "Contraseña enviada"
+    },
+    "Privacy Policy": {
+        "es": "Política de privacidad"
+    },
+    "Remember me": {
+        "es": "Recordarme"
+    },
+    "Reset password": {
+        "es": "Restaurar contraseña"
+    },
+    "Return": {
+        "es": ""
+    },
+    "Send code": {
+        "es": "Enviar código"
+    },
+    "Sign up": {
+        "es": "Crear cuenta"
+    },
+    "Sign up for free": {
+        "es": "Crea una cuenta gratis"
+    },
+    "Terms & Conditions.": {
+        "es": "Términos y condiciones"
+    },
+    "The password must be at least 8 characters long": {
+        "es": "La contraseña debe ser de al menos 8 caracteres"
+    },
+    "Update password": {
+        "es": "Actualizar contraseña"
+    },
+    "We have sent you a link to reset the password": {
+        "es": "Hemos enviado un link para restaurar la contraseña"
+    },
+    "Welcome back": {
+        "es": "Bienvenido"
+    },
+    "You must agree to the Privacy Policy and Terms & Conditions": {
+        "es": "Debes aceptar la política de privacidad y los términos y condiciones"
+    },
+    "and": {
+        "es": "y"
+    }
+}
