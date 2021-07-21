@@ -3,7 +3,14 @@
         "es": "Agregar Etiquetas"
     },
     "Add tags to %d elements": {
-        "es": "Añadir etiquetas a %d elementos "
+        "en": [
+          "Add a tag to the element",
+          "Add tags to %d elements"  
+        ],
+        "es": [
+            "Añadir una etiqueta al %d elemento",
+            "Añadir etiquetas a %d elementos"
+        ]
     },
     "Create": {
         "es": "Crear"
