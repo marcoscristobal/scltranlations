@@ -12,12 +12,6 @@
             "Añadir etiquetas a %d elementos"
         ]
     },
-    "Create": {
-        "es": "Crear"
-    },
-    "Create %s": {
-        "es": "Crear %s"
-    },
     "Customize list": {
         "es": "Personalizar listado"
     },
@@ -57,6 +51,9 @@
     },
     "List settings": {
         "es": "Configurar listado"
+    },
+    "New %s": {
+        "es": "Nuevo %s"
     },
     "Remove tags": {
         "es": "Eliminar etiquetas"
