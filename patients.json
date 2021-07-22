@@ -50,8 +50,8 @@
             "Pacientes"
         ]
     },
-    "Phone 1": {
-        "es": "Teléfono 1"
+    "Phone": {
+        "es": "Teléfono"
     },
     "Phone 2": {
         "es": "Teléfono 2"
@@ -61,6 +61,9 @@
     },
     "Referral": {
         "es": "Referido por"
+    },
+    "Start": {
+        "es": "Inicio"
     },
     "Town": {
         "es": "Ciudad"
