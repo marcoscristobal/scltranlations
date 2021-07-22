@@ -17,6 +17,9 @@
     "Country": {
         "es": "País"
     },
+    "Doctor": {
+        "es": "Doctor"
+    },
     "Email": {
         "es": "Email"
     },
@@ -24,13 +27,13 @@
         "es": "Nombre completo"
     },
     "ID card": {
-        "es": "Tarjeta de identificación"
-    },
-    "Invoice to": {
-        "es": "Factuar a"
+        "es": "DNI"
     },
     "Last name": {
-        "es": "Apellido"
+        "es": "Segundo apellido"
+    },
+    "Middle name": {
+        "es": "Primer appellido"
     },
     "Mobile phone": {
         "es": "Teléfono móvil"
@@ -41,22 +44,37 @@
     "Nickname": {
         "es": "Apodo"
     },
+    "Patient": {
+        "es": "Paciente"
+    },
+    "Patients": {
+        "es": "Pacientes"
+    },
     "Phone 1": {
         "es": "Teléfono 1"
     },
     "Phone 2": {
         "es": "Teléfono 2"
     },
+    "Priority": {
+        "es": "Prioridad"
+    },
     "Referral": {
         "es": "Referido por"
-    },
-    "Second Last name": {
-        "es": "Segundo Apellido"
     },
     "Town": {
         "es": "Ciudad"
     },
     "Zip code": {
         "es": "Código Postal"
+    },
+    "[priority]Default": {
+        "es": "Normal"
+    },
+    "[priority]High": {
+        "es": "Alta"
+    },
+    "[priority]Low": {
+        "es": "Baja"
     }
 }
