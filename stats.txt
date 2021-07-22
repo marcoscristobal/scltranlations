@@ -1,0 +1,7 @@
+Translated: 240
+
+Pending: 3
+--------------
+slib.json -> Right align
+slib.json -> lesser than
+slib.json -> Label
