@@ -4,8 +4,8 @@
     },
     "Add tags to %d elements": {
         "en": [
-          "Add a tag to the element",
-          "Add tags to %d elements"  
+            "Add a tag to the element",
+            "Add tags to %d elements"
         ],
         "es": [
             "Añadir una etiqueta al %d elemento",
